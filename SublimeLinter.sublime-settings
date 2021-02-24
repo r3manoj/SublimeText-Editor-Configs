@@ -1,0 +1,10 @@
+// SublimeLinter Settings - User
+{
+	// Provide extra paths to be searched when locating system executables.
+    "linters": {
+        // The name of the linter you installed
+        "flake8": {
+        	"executable": "/Users/manoj/Projects/envs/generic/bin/flake8"
+        }
+    }
+}

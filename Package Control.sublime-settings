@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ayu",
+		"Package Control",
+		"Python 3",
+		"rainbow_csv",
+		"SingleTrailingNewLine",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"Theme - Brogrammer",
+		"Theme - Cobalt2",
+		"Theme - Flatland",
+		"zenburn"
+	]
+}

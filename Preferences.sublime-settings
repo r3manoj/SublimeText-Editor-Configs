@@ -1,0 +1,25 @@
+{
+	"bold_folder_labels": false,
+	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
+	"draw_white_space": "all",
+	"font_face": "Menlo",
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		72,
+		79,
+		100
+	],
+	"tab_size": 4,
+	"theme": "ayu-mirage.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"word_wrap": true,
+	"scroll_past_end": true
+}
